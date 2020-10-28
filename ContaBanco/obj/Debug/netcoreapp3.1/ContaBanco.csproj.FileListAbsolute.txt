@@ -1,0 +1,13 @@
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.exe
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.deps.json
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.runtimeconfig.json
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.runtimeconfig.dev.json
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.dll
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.pdb
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.csprojAssemblyReference.cache
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.AssemblyInfoInputs.cache
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.AssemblyInfo.cs
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.dll
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.pdb
+C:\Users\Victor Augusto\source\repos\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.genruntimeconfig.cache
